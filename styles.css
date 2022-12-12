@@ -163,7 +163,7 @@ nav {
   align-items: center;
   box-shadow: var(--dark-shadow);
 }
-.nav-center {
+.nav-left {
   width: 90vw;
   max-width: var(--fixed-width);
   margin: 0 auto;
@@ -171,11 +171,11 @@ nav {
   align-items: center;
   justify-content: space-between;
 }
-.nav-center h4 {
+.nav-left h4 {
   margin-bottom: 0;
   color: var(--clr-primary-5);
 }
-.nav-links {
+.nav-right {
   display: flex;
 }
 nav a {
