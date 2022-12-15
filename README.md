@@ -1,5 +1,7 @@
 # Javascript-Project-Simple-Colour-Changer
 
+Add documentation, simple loading of project etc 
+
 Notes - Edit Syles.CSS
 
 Randomly generates for Simple and Random using hex

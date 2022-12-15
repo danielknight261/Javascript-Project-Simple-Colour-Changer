@@ -158,7 +158,7 @@ Nav
 */
 nav {
   background: var(--clr-white);
-  height: 3rem;
+  height: 6rem;
   display: grid;
   align-items: center;
   box-shadow: var(--dark-shadow);
@@ -231,4 +231,8 @@ main {
 .btn-hero:hover {
   color: var(--clr-white);
   background: var(--clr-black);
+}
+
+.rainbow-text {
+  background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);
 }
